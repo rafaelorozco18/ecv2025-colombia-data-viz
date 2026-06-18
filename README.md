@@ -4,8 +4,6 @@
 > Ailyn Gómez · Allison Loango · Rafael Orozco  
 > Data: DANE — Encuesta Nacional de Calidad de Vida (ECV) 2025 · 87,000 households
 
-**[📊 Interactive Power BI Dashboard](https://app.powerbi.com/links/iIhnY5TYfR?ctid=3b944d9a-1051-4685-b09d-9a95ee2dbd99&pbi_source=linkShare)** *(requires Universidad Externado de Colombia login)*
-
 ---
 
 ## Overview
